@@ -1,0 +1,15 @@
+.left-column {background-color: green;}
+.right-column {background-color: blue;}
+.top-row {background-color: yellow;}
+.bottom-row {background-color: black;}
+.mytable {
+    text-align: center;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+
+}
+.mycell {
+;
+}
