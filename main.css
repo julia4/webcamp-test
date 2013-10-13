@@ -16,12 +16,18 @@
 }
 .king {background-color: #a51908;
     background-image: url("img/king.png");
-    background-position: center; /* Положение фона */
-    background-repeat: no-repeat; /* Повторяем фон по горизонтали */
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .pawn {background-color: #ffe6a3;
     background-image: url("img/pawn.png");
-    background-position: center; /* Положение фона */
-    background-repeat: no-repeat; /* Повторяем фон по горизонтали */
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.queen {background-color: #ffe6a3;
+    background-image: url("img/queen.png");
+    background-position: center;
+    background-repeat: no-repeat;
 }
