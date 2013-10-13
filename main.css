@@ -1,9 +1,9 @@
-.left-column {background-color: green;}
-.right-column {background-color: blue;}
+.left-column {background-color: #a51908;}
+.right-column {background-color: #ffe6a3;}
 .top-row {background-color: black;}
 .bottom-row {background-color: black;}
 .mytable {
-    text-align: center;
+    text-align: center; font-weight: bold; font-size: 18px;
     margin-top: 20%;
     margin-left: auto;
     margin-right: auto;
@@ -13,4 +13,15 @@
 }
 .rotate {
     -webkit-transform: rotate(180deg);
+}
+.king {background-color: #a51908;
+    background-image: url("img/king.png");
+    background-position: center; /* Положение фона */
+    background-repeat: no-repeat; /* Повторяем фон по горизонтали */
+}
+
+.pawn {background-color: #ffe6a3;
+    background-image: url("img/pawn.png");
+    background-position: center; /* Положение фона */
+    background-repeat: no-repeat; /* Повторяем фон по горизонтали */
 }
