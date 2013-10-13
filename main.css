@@ -1,15 +1,16 @@
 .left-column {background-color: green;}
 .right-column {background-color: blue;}
-.top-row {background-color: yellow;}
+.top-row {background-color: black;}
 .bottom-row {background-color: black;}
 .mytable {
     text-align: center;
     margin-top: 20%;
     margin-left: auto;
     margin-right: auto;
-    width: 600px;
+    width: 50%;
+    color: white;
 
 }
-.mycell {
-;
+.rotate {
+    -webkit-transform: rotate(180deg);
 }
